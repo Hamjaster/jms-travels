@@ -10,7 +10,7 @@ export default function Destinations() {
     <div id='destinations' className='bg-gray-200 py-36'>
       <div className="w-11/12 sm:w-1/2 text-center mx-auto mb-12">
         <div className={`${italic.className} text-4xl mb-4 sm:text-5xl`}>Plan your next trip with us</div>
-        <div>Spanning cities, countries and continents, we cover all types of travel destinations around the world. Don't see your travel destination listed? Our advisors can still book your trip. Connect with a US today.</div>
+        <div>Spanning cities, countries and continents, we cover all types of travel destinations around the world. Dont see your travel destination listed? Our advisors can still book your trip. Connect with a US today.</div>
       </div>
       <div className={`grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:mx-16 mx-4 `}>
 
