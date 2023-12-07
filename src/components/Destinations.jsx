@@ -15,7 +15,7 @@ export default function Destinations() {
       <div className={`grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:mx-16 mx-4 `}>
 
         <div style={{
-          backgroundImage: 'url(https://www.foratravel.com/images/destinations/asia.webp?w=703&q=90)',
+          backgroundImage: 'url(./aik.jpg)',
           backgroundPosition: 'center',
           backgroundSize: 'cover'
         }} className="relative rounded-2xl sm:rounded-none w-full h-96 card cursor-pointer group">
@@ -32,7 +32,7 @@ export default function Destinations() {
         </div>
 
         <div style={{
-          backgroundImage: 'url(https://www.foratravel.com/images/destinations/europe.webp?w=703&q=90)',
+          backgroundImage: 'url(./do.jpg)',
           backgroundPosition: 'center',
           backgroundSize: 'cover'
         }} className="relative rounded-2xl sm:rounded-none md:col-span-2 w-full h-96 card cursor-pointer group">
@@ -49,7 +49,7 @@ export default function Destinations() {
         </div>
 
         <div style={{
-          backgroundImage: 'url(https://www.foratravel.com/images/destinations/oceania.webp?w=703&q=90)',
+          backgroundImage: 'url(./teen.jpg)',
           backgroundPosition: 'center',
           backgroundSize: 'cover'
         }} className="relative rounded-2xl sm:rounded-none md:col-span-2 w-full h-96 card cursor-pointer group">
@@ -66,7 +66,7 @@ export default function Destinations() {
         </div>
 
         <div style={{
-          backgroundImage: 'url(https://www.foratravel.com/images/destinations/middle-east.webp?w=703&q=90)',
+          backgroundImage: 'url(./chaar.jpg)',
           backgroundPosition: 'center',
           backgroundSize: 'cover'
         }} className="relative rounded-2xl sm:rounded-none w-full h-96 card cursor-pointer group">
